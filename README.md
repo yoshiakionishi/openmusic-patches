@@ -1,2 +1,3 @@
 # OMPatches
 Various OpenMusic patches...
+For now I will be posting patches that deal with various mathematical modelings.
